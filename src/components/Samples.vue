@@ -44,7 +44,7 @@ audio {
   background-color: #263238;
 }
 </style>
-  
+
 <script setup>
 const samples = [
   {

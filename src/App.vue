@@ -2,7 +2,7 @@
   <v-app>
     <AppBar />
     <v-main>
-      <HelloWorld />
+      <Hello />
       <Discography />
       <Samples />
       <Tools />
@@ -10,7 +10,6 @@
     <AppFooter />
   </v-app>
 </template>
-
 <script setup>
   //
 </script>
